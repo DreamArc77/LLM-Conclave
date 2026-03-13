@@ -27,7 +27,7 @@ COPY --from=builder /app/.next/static ./.next/static
 COPY --from=builder /app/public ./public
 
 # Report template used for meeting minutes generation
-COPY --from=builder /app/src/AI智囊团专题研讨交付MD.md ./src/AI智囊团专题研讨交付MD.md
+COPY --from=builder /app/src/ReportTemplate.md ./src/ReportTemplate.md
 
 USER nextjs
 

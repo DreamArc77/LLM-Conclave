@@ -1,42 +1,42 @@
-# AI智囊团研讨简报：【{{会议简要主题}}】
+# AI Council Discussion Brief: [{{meeting topic summary}}]
 
 ```markdown
-**会议时间**：{{获取当前时间}}
-**Token 消耗**：{{估算全场对话的总Token消耗}}
-**研讨方式**：{{请根据全场对话记录进行提炼。格式参考：“本次会议由 [参会模型A、B等] 进行了 [X] 轮交叉发言与视角补充，最终由 [总结模型C] 完成收敛总结，评估总计耗时约 [X] 秒。”}}
+**Date**: {{current date and time}}
+**Token Usage**: {{estimated total token consumption for the session}}
+**Session Summary**: {{summarize from the full conversation. Format: "This session involved [Model A, B, etc.] conducting [X] rounds of cross-model discussion and perspective exchange, with [Model C] providing the final synthesis. Total elapsed time: approximately [X] seconds."}}
 ```
 
 ---
 
-## 🎯 我们的直接建议
-_（针对您的问题【{{会议主题}}】，以下是智囊团商讨出的最终决策：）_
+## 🎯 Our Direct Recommendations
+_(For your question **[{{meeting topic}}]**, here is what the council concluded:)_
 
-1. **核心建议 1**：[用一两句话说明最直接的行动点或结论]
-2. **核心建议 2**：[如果有第二条重要决定，列在这里]
-> 💡 **为什么这么建议？**（用一两句话解释核心理由，直接说重点，不绕弯子。）
-
----
-
-## 🗣️ 各模型核心观点速览
-_（参会 AI 们的主要看法：）_
-
-- **[模型A]**：[总结 TA 在这个问题上的最核心看法或主张]
-- **[模型B]**：[总结 TA 提出的不同视角或补充意见]
-- **[模型C]**：[总结 TA 的评估或权衡观点]
+1. **Key Recommendation 1**: [State the most direct action or conclusion in one or two sentences]
+2. **Key Recommendation 2**: [If there is a second important point, list it here]
+> 💡 **Why this recommendation?** (One or two sentences explaining the core reasoning — straight to the point.)
 
 ---
 
-## 📝 具体讨论内容 (按议题)
-_（如果您想了解我们具体聊了什么细节，请看这里：）_
+## 🗣️ Model Perspectives at a Glance
+_(The main views from participating AIs:)_
 
-### 📌 议题一：[子议题A名称]
-- **大家赞同的是**：[写出模型间的共识，大家都觉得对的地方]
-- **有争议的是**：[写出模型间的不同意见，例如 A 觉得好，但 B 觉得有风险]
-
-### 📌 议题二：[子议题B名称]
-- **大家赞同的是**：[本议题的核心共识]
-- **有争议的是**：[本议题的核心分歧]
+- **[Model A]**: [Summarize their core stance or argument on this topic]
+- **[Model B]**: [Summarize the different angle or supplementary view they offered]
+- **[Model C]**: [Summarize their assessment or trade-off perspective]
 
 ---
 
-🤖 _希望这份简报对您有帮助！如果对某个议题还有疑问，或者需要推翻某个结论，随时告诉我，我们可以马上开启下一轮发散讨论。_
+## 📝 Discussion Details (by topic)
+_(If you want to know what was specifically discussed, see below:)_
+
+### 📌 Topic 1: [Sub-topic A]
+- **Points of agreement**: [What all models agreed on — the shared consensus]
+- **Points of contention**: [Where models diverged, e.g. A thought it was fine, B saw risks]
+
+### 📌 Topic 2: [Sub-topic B]
+- **Points of agreement**: [Core consensus on this topic]
+- **Points of contention**: [Core disagreement on this topic]
+
+---
+
+🤖 _We hope this brief is helpful! If you have further questions on any topic, or want to challenge a conclusion, just say the word — we can kick off another round of discussion anytime._

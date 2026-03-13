@@ -299,7 +299,7 @@ async function generateSummary(
   if (inlineTemplate) {
     templateContent = inlineTemplate;
   } else {
-    const templatePath = path.join(process.cwd(), 'src', 'AI智囊团专题研讨交付MD.md');
+    const templatePath = path.join(process.cwd(), 'src', 'ReportTemplate.md');
     try {
       templateContent = fs.readFileSync(templatePath, 'utf-8');
     } catch {
